@@ -3,5 +3,6 @@
 module.exports = foo;
 
 function foo() {
+    console.log('foo')
     // TODO
 }
