@@ -1,6 +1,6 @@
 {
   "name": "mfe-lerna-foo",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "> TODO: description",
   "author": "krotevski <alex.krotov92@gmail.com>",
   "homepage": "https://github.com/AlexKrotov92/mfe-lerna#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/AlexKrotov92/mfe-lerna/issues"
   },
-  "gitHead": "24e261b55c977b182ad6a7421e10c6dd97c9dc30"
+  "gitHead": "735346a174ebd0c3ded9319d0343c721a3e8c588"
 }
