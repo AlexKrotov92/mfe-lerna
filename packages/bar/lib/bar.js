@@ -3,6 +3,6 @@
 module.exports = bar;
 
 function bar() {
-    console.log('bar')
+    console.log('bar bar')
     // TODO
 }
